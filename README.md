@@ -1,16 +1,15 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**amourresonance/amourresonance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+${\textsf{\color{#12e793}If utopia is your ideal destination. Must I trade my suffering for salvation?}}$
 
-Here are some ideas to get you started:
+[prns](https://pronouns.cc/@amourresonance) <img src="https://file.garden/aczcjY18jk1XQsaE/clover" width="20"> [ata](https://louterstella.atabook.org/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = "https://file.garden/aczcjY18jk1XQsaE/cuteboombox" width = 160>
+
+${\textsf{\color{#12e793}◟ ͜ ◞𐙚ྀ ◟ ͜ ◞}}$
+
+<div align="center">
+
+${\textsf{\color{#a1a1a3} big love to my party + my cute friends}}$
+
+${\textsf{\color{#a1a1a3} w2i + c+h enc}}$
